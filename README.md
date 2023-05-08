@@ -7,7 +7,7 @@
 
 - 📫  Contact me at chethagunaratne@gmail.com 
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning PHP
 
 - 👯 I’m looking to collaborate on interesting projects.
 
