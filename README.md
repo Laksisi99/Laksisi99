@@ -5,13 +5,15 @@
 
 - 🌍  I'm from Colombo, Sri Lanka
 
+- 🌐  View my portofolio at https://laksisi99.github.io/My_Portofolio
+
 - 📫  Contact me at chethagunaratne@gmail.com 
 
 - 🌱 I’m currently learning PHP
 
 - 👯 I’m looking to collaborate on interesting projects.
 
-- ⚡ Fun fact: Bathroom Singer
+- ⚡ Fun fact: Good Cook & Bathroom Singer
 
 
 <h3 align="left">Connect with me:</h3>
